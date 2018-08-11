@@ -1,7 +1,6 @@
-# dapp
+# Asure dApp
 
-
-
+http://dapp.asure.io/
 
 ## License (ISC)
 
