@@ -1,7 +1,6 @@
 # Asure dApp
 
-
-[![Asure dApp](./introWelcome.png)][1]
+<img src="./introWelcome.png" alt="Asure dApp" />
 
 http://dapp.asure.io/
 
